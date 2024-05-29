@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andr%c3%a9s-felipe-rodr%c3%adguez-cort%c3%a9s-089033292?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bm04ljummsrszzre%2fmyjkjq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andr%c3%a9s-felipe-rodr%c3%adguez-cort%c3%a9s-089033292?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bm04ljummsrszzre%2fmyjkjq%3d%3d" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/andr%c3%a9s-felipe-rodr%c3%adguez-cort%c3%a9s-089033292?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bm04ljummsrszzre%2fmyjkjq%3d%3d](https://www.linkedin.com/in/andr%C3%A9s-felipe-rodr%C3%ADguez-cort%C3%A9s-089033292?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bmw43AhDsQvK%2Bj%2BBAgRzCew%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andr%c3%a9s-felipe-rodr%c3%adguez-cort%c3%a9s-089033292?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bm04ljummsrszzre%2fmyjkjq%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
